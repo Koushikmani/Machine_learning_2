@@ -15,4 +15,4 @@ The software has been tested with the [TurtleBot3 ROBOT](https://emanual.robotis
 - OS Version:[Ubuntu 20.04] (https://releases.ubuntu.com/focal/)
 - This package is developed with the ROS Noetic to install this follow the official documentation [ROS]
 (http://wiki.ros.org/noetic/Installation/Ubuntu)
-- This package is developed with the ROS2 Humble and Nav2 package to install this follow the official documentation [Ros](http://wiki.ros.org/noetic/Installation/Ubuntu)
+- This package is developed with the ROS2 Humble and Nav2 package to install this follow the official documentation [ROS](http://wiki.ros.org/noetic/Installation/Ubuntu)
