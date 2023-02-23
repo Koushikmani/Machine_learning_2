@@ -55,3 +55,7 @@ Terminal_4(Main script)
 
   
 ## ROS graph  
+
+## Presentation of this project
+
+Here you can find the presentation of the assignment
