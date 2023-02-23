@@ -20,7 +20,7 @@ The software has been tested with the [TurtleBot3 ROBOT](https://emanual.robotis
 Terminal_1(Gazebo)
 
     '''
-        roslaunch turtlebot3_neural_network turtlebot3_square.launch
+         roslaunch turtlebot3_neural_network turtlebot3_square.launch
     '''
 Terminal_2(To run the obstacle avoidance)
 
