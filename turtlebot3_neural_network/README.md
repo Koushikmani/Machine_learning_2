@@ -7,4 +7,4 @@ This project demonstrates the implementation of obstacle avoidance in ROS (Robot
 
 ![TurtleBot3_WafflePi](https://user-images.githubusercontent.com/81651764/194770503-45cbd61b-7b50-442e-b67a-140f7cc4dc28.png)
 
-The software has been tested with the [TurtleBot3 Waffle](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) robot model, which is a small, affordable and programmable, ROS-based mobile robot for use in education, research, hobby, and product prototyping.
+The software has been tested with the [TurtleBot3 ROBOT](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) robot model, which is a small, affordable and programmable, ROS-based mobile robot for use in education, research, hobby, and product prototyping.
