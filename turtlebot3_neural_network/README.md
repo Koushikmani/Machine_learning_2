@@ -15,6 +15,15 @@ The software has been tested with the [TurtleBot3 ROBOT](https://emanual.robotis
 - OS Version:[Ubuntu 20.04] (https://releases.ubuntu.com/focal/)
 - This package is developed with the ROS2 Humble and Nav2 package to install this follow the official documentation [ROS](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
+
+## Classifiers used
+
+-Convolution Neural Network(CNN)
+-Random Forest(RF)
+-K-Nearest Neighbors(KNN)
+
+## Package Description
+
 ## Process to execute the Assignment:
 
 Terminal_1(Gazebo)
