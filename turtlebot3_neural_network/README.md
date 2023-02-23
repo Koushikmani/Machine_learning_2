@@ -14,3 +14,32 @@ The software has been tested with the [TurtleBot3 ROBOT](https://emanual.robotis
 
 - OS Version:[Ubuntu 20.04] (https://releases.ubuntu.com/focal/)
 - This package is developed with the ROS2 Humble and Nav2 package to install this follow the official documentation [ROS](http://wiki.ros.org/noetic/Installation/Ubuntu)
+
+## Process to execute the Assignment:
+
+Terminal_1(Gazebo)
+
+    '''
+        roslaunch turtlebot3_neural_network turtlebot3_square.launch
+    '''
+Terminal_2(To run the obstacle avoidance)
+
+    '''
+          python3 obstacle_avoidance_tf.py
+    '''
+Terminal_3(To record the data)
+
+    '''python3 data_recorder.py 
+
+    '''
+Terminal_4(To Train the neural network)
+   
+   '''
+           python3 data_train.py
+    '''
+    
+Terminal_4(Main script)
+   
+   '''
+           python3 obstacle_avoidance_tf.py 
+    '''
