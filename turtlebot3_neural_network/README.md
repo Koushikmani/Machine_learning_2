@@ -34,12 +34,12 @@ Terminal_3(To record the data)
     '''
 Terminal_4(To Train the neural network)
    
-   '''
+    '''
            python3 data_train.py
     '''
     
 Terminal_4(Main script)
    
-   '''
+    '''
            python3 obstacle_avoidance_tf.py 
     '''
