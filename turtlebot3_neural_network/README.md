@@ -18,9 +18,9 @@ The software has been tested with the [TurtleBot3 ROBOT](https://emanual.robotis
 
 ## Classifiers used
 
--Convolution Neural Network(CNN)
--Random Forest(RF)
--K-Nearest Neighbors(KNN)
+- Convolution Neural Network(CNN)
+- Random Forest(RF)
+- K-Nearest Neighbors(KNN)
 
 ## Package Description
 
