@@ -29,7 +29,8 @@ Terminal_2(To run the obstacle avoidance)
     '''
 Terminal_3(To record the data)
 
-    '''python3 data_recorder.py 
+    '''
+    python3 data_recorder.py 
 
     '''
 Terminal_4(To Train the neural network)
