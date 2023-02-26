@@ -3,7 +3,7 @@
 ## Obstacle Avoidance using Neural Networks, Random Forest, KNN, CNN and Decision tree Classifiers using ROS
 
 ### Developed by Jerin Joy and Koushikmani Maskalmatti Lakshman under the guidance of professor Luca Oneto.
-This project demonstrates the implementation of obstacle avoidance in ROS (Robot Operating System) using various machine learning classifiers such as Neural Networks, Random Forest, KNN, and CNN. The purpose of this project is to create a robot that can navigate autonomously without colliding into any obstacles in its path.
+This project demonstrates the implementation of obstacle avoidance in ROS (Robot Operating System) using various machine learning classifiers such as Neural Networks, Random Forest, KNN, and decision tree. The purpose of this project is to create a robot that can navigate autonomously without colliding into any obstacles in its path.
 
 ![TurtleBot3_WafflePi](https://user-images.githubusercontent.com/81651764/194770503-45cbd61b-7b50-442e-b67a-140f7cc4dc28.png)
 
@@ -32,7 +32,7 @@ Terminal_1(Gazebo Environment)
     '''
          roslaunch turtlebot3_neural_network turtlebot3_square.launch
     '''
-    /We will see the gazebo environment with turtlebot3_robot
+    We will see the gazebo environment with turtlebot3_robot
 Terminal_2(To run the obstacle avoidance)
 
     '''
