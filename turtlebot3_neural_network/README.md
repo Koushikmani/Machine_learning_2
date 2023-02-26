@@ -1,4 +1,4 @@
-# MACHINE_LEARNING_FOR_ROBOTICS_2
+# 🕵️  MACHINE_LEARNING_FOR_ROBOTICS_2 🤖
 
 ## Obstacle Avoidance using Neural Networks, Random Forest, KNN, CNN and Decision tree Classifiers using ROS
 
@@ -13,20 +13,21 @@ The software has been tested with the [TurtleBot3 ROBOT](https://emanual.robotis
 ## Installation Setup
 
 - OS Version:[Ubuntu 20.04] (https://releases.ubuntu.com/focal/)
-- This package is developed with the ROS2 Humble and Nav2 package to install this follow the official documentation [ROS](http://wiki.ros.org/noetic/Installation/Ubuntu)
+- This package is developed with the ROS Noetic to install this follow the official documentation [ROS](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
 
 ## Classifiers used
 
-- Convolution Neural Network(CNN)
+- Neural Network(NN)
 - Random Forest(RF)
 - K-Nearest Neighbors(KNN)
+- Decision tree
 
 ## Package Description
 
 ## Process to execute the Assignment:
 
-Terminal_1(Gazebo)
+Terminal_1(Gazebo Environment)
 
     '''
          roslaunch turtlebot3_neural_network turtlebot3_square.launch
@@ -34,7 +35,7 @@ Terminal_1(Gazebo)
 Terminal_2(To run the obstacle avoidance)
 
     '''
-          python3 obstacle_avoidance_tf.py
+          python3 obstacle_avoidance_laser.py
     '''
 Terminal_3(To record the data)
 
@@ -51,10 +52,14 @@ Terminal_4(To Train the neural network)
 Terminal_4(Main script)
    
     '''
-           python3 obstacle_avoidance_tf.py 
+           python3 obstacle_avoidance_ml.py 
     '''
 
-
+Terminal_5(To comparision of the data)
+   
+    '''
+           python3 comparision.py 
+    '''
 
 
 ## Video
