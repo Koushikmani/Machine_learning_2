@@ -32,7 +32,7 @@ Terminal_1(Gazebo Environment)
     '''
          roslaunch turtlebot3_neural_network turtlebot3_square.launch
     '''
-    We will see the gazebo environment with turtlebot3_robot
+    /We will see the gazebo environment with turtlebot3_robot
 Terminal_2(To run the obstacle avoidance)
 
     '''
